@@ -945,3 +945,4 @@ func main() {
 - [もしもいま、Go をイチから学ぶならどうしたい？　松木雅幸 / Songmu さんが考える学習ロードマップ](https://findy-code.io/engineer-lab/techtensei-songmu)
 - [とってもやさしい Go 言語入門](https://zenn.dev/ak/articles/1fb628d82ed79b)
 - [プログラミング言語 Go 完全入門](https://docs.google.com/presentation/d/1RVx8oeIMAWxbB7ZP2IcgZXnbZokjCmTUca-AbIpORGk/edit?pli=1&slide=id.g4f417182ce_0_0#slide=id.g4f417182ce_0_0)
+- [TechTrain流 学習ロードマップ - Goの学び方](https://techtrain.dev/media/articles/zuvkkdjv4em)
