@@ -17,4 +17,5 @@
     - Goのプロジェクトのサンプル
     - コードリーディングしながら学ぶ
 - [Go by Example](https://gobyexample.com/)
+- [Proagte: Go](https://progate.com/courses/feature/go)
 - //
